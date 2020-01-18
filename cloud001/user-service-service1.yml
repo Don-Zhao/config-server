@@ -1,8 +1,5 @@
 server:
     port: 8110
-spring:
-    application:
-        name: user-service
 eureka:
     client:
         register-with-eureka: true
